@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently a student through Tech Elevator's coding bootcamp in Columbus, OH.
+I am currently a full-stack developer-student through Tech Elevator's coding bootcamp in Columbus, OH.
 
 I am (or will be) learning Java, HTML, CSS, JavaScript, and SQL.
 
