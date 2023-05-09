@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am currently a student through Tech Elevator's coding bootcamp in Columbus, OH.
+
+I am (or will be) learning Java, HTML, CSS, JavaScript, and SQL.
+
+I am interested in developing apps that find solutions to problems that people didn't even realize were possible. In the future I hope to explore specialized areas like AI, crypto, and Android app development. 
