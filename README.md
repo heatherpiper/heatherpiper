@@ -4,7 +4,7 @@ My name is Heather Piper, and I am full stack developer in Columbus, Ohio. Prior
 
 ### Recent Projects
 
-- 🚲[amsTOURdam](https://github.com/heatherpiper/final-capstone) - Web app that allows users to create custom itineraries from a curated list of experiences and activities within the city of Amsterdam. Users can search and browse a database of landmarks, drag landmark cards into and out of itineraries for easy editing, build custom color-coded routes, and upload photos of their travels. This was my final capstone project for Tech Elevator's Java bootcamp. **Tools used**: Java, Spring Boot, PostgreSQL, Vue.js, HTML, CSS, JavaScript, GitLab, Google Maps API, Cloudinary API
+- 🚲[amsTOURdam](https://github.com/heatherpiper/amsTOURdam-final_capstone) - Web app that allows users to create custom itineraries from a curated list of experiences and activities within the city of Amsterdam. Users can search and browse a database of landmarks, drag landmark cards into and out of itineraries for easy editing, build custom color-coded routes, and upload photos of their travels. This was my final capstone project for Tech Elevator's Java bootcamp. **Tools used**: Java, Spring Boot, PostgreSQL, Vue.js, HTML, CSS, JavaScript, GitLab, Google Maps API, Cloudinary API
 
 - 📖 Online Java Knowledge Base (Private) - Centralized repository for fellow Tech Elevator graduates that organizes and catalogues the Java curriculum, quizzes, videos, and other online resources that served as part of the instruction during Tech Elevator's Java bootcamp for Cohort 20.
 
