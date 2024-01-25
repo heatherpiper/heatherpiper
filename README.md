@@ -10,7 +10,7 @@ My name is Heather Piper, and I am full stack developer in Columbus, Ohio. Prior
 
 ### Current Projects
 
-- 🏉 [My AFL Ladder](https://github.com/heatherpiper/my-AFL-ladder) - As an American fan of Australian Rules Football and the AFL, it can be difficult to monitor team rankings without being spoiled for games that happen overnight. This app takes the concept of a live ladder and adds the functionality for a user to check off only the games they have watched. The ladder will be updated only once instructed by the user, allowing them to view a ladder that is "live" according to the games watched by the user. **Tools used**:
+- 🏉 [My AFL Ladder](https://github.com/heatherpiper/my-AFL-ladder) - As an American fan of Australian Rules Football and the AFL, it can be difficult to monitor team rankings without being spoiled for games that happen overnight. This app takes the concept of a live ladder and adds the functionality for a user to check off only the games they have watched. The ladder will be updated only once instructed by the user, allowing them to view a ladder that is "live" according to the games watched by the user. 
 
 ### Future Projects
 
