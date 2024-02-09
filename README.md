@@ -2,15 +2,15 @@
 
 My name is Heather Piper, and I am full stack developer in Columbus, Ohio. Prior to being a developer, I worked as a court reporter and ran a successful 3D printing business that fulfilled nearly 1,000 online orders over three years. I graduated from Tech Elevator's Java bootcamp in September 2023.
 
+### Current Project
+
+- 🏉 [My AFL Ladder](https://github.com/heatherpiper/My-AFL-Ladder) - As an American fan of Australian Rules Football and the AFL, one of the challenges I've faced is the inconvenience of checking current team standings without inadvertently spoiling match results that occurred overnight. My AFL Ladder offers a solution: it displays an updated team ladder that only refreshes as the user personally marks off the games they've watched. This unique feature ensures that you can stay informed about the current standings while preserving the excitement of each match. **Tools used**: Python, Scrapy, Google Cloud Compute Engine, Java, Spring Boot, PostgreSQL, Vue.js
+
 ### Recent Projects
 
 - 🚲[amsTOURdam](https://github.com/heatherpiper/amsTOURdam-final_capstone) - Web app that allows users to create custom itineraries from a curated list of experiences and activities within the city of Amsterdam. Users can search and browse a database of landmarks, drag landmark cards into and out of itineraries for easy editing, build custom color-coded routes, and upload photos of their travels. This was my final capstone project for Tech Elevator's Java bootcamp. **Tools used**: Java, Spring Boot, PostgreSQL, Vue.js, HTML, CSS, JavaScript, GitLab, Google Maps API, Cloudinary API
 
 - 📖 Online Java Knowledge Base (Private) - Centralized repository for fellow Tech Elevator graduates that organizes and catalogues the Java curriculum, quizzes, videos, and other online resources that served as part of the instruction during Tech Elevator's Java bootcamp for Cohort 20.
-
-### Current Projects
-
-- 🏉 [My AFL Ladder](https://github.com/heatherpiper/My-AFL-Ladder) - As an American fan of Australian Rules Football and the AFL, it can be difficult to monitor team rankings without being spoiled for games that happen overnight. This app takes the concept of a live ladder and adds the functionality for a user to check off only the games they have watched. The ladder will be updated only once instructed by the user, allowing them to view a ladder that is "live" according to the games watched by the user. 
 
 ### Future Projects
 
