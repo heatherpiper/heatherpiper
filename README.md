@@ -4,7 +4,7 @@ My name is Heather Piper, and I am full stack developer in Columbus, Ohio. Prior
 
 ### Current Project
 
-- 🏉 [My AFL Ladder](https://github.com/heatherpiper/My-AFL-Ladder) - As an American fan of Australian Rules Football and the AFL, one of the challenges I've faced is the inconvenience of checking current team standings without inadvertently spoiling match results that occurred overnight. My AFL Ladder offers a solution: it displays an updated team ladder that only refreshes as the user personally marks off the games they've watched. This unique feature ensures that you can stay informed about the current standings while preserving the excitement of each match. **Tools used**: Python, Scrapy, Google Cloud Compute Engine, Java, Spring Boot, PostgreSQL, Vue.js
+- 🏉 [Later Ladder](https://github.com/heatherpiper/Later-Ladder) - As an American fan of Aussie rules football and the Australian Football League (AFL), one of the challenges I've faced is the inconvenience of checking current team standings without inadvertently spoiling match results that occurred overnight. Later Ladder offers a solution: it displays an updated team ladder that only refreshes as the user personally marks off the games they've watched. This unique feature ensures that you can stay informed about the current AFL standings while preserving the excitement of each match. **Tools used**: Java, Spring Boot, PostgreSQL, Vue.js, HTML, CSS, JavaScript
 
 ### Recent Projects
 
